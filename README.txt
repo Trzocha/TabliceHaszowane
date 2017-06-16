@@ -17,7 +17,6 @@ powinno wypisać:
 
 Nazwy od i do będą napisami składającymi się z maksymalnie 16 małych liter i znaku podkreślenia. Suma wpłat dla każdej pary nie 
 przekroczy zakresu int-a.
-Należy skorzystać z tablicy haszowanej z łańcuchowaniem oddzielnym do rozwiązywania kolizji
 
 Przykład
 
